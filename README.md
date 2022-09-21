@@ -1,1 +1,4 @@
 # AWS-CloudPractitioner
+### 参考図書
+1. [AWS認定資格試験テキスト AWS認定 クラウドプラクティショナー \| 山下 光洋, 海老原 寛之 \|本 \| 通販 \| Amazon](https://www.amazon.co.jp/AWS%E8%AA%8D%E5%AE%9A%E8%B3%87%E6%A0%BC%E8%A9%A6%E9%A8%93%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88-AWS%E8%AA%8D%E5%AE%9A-%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC-%E5%B1%B1%E4%B8%8B-%E5%85%89%E6%B4%8B/dp/4797397403/ref=sr_1_4?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2GM1U1Y87KV45&keywords=%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC&qid=1663776677&sprefix=%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%83%97%E3%83%A9%E3%82%AF%E3%83%86%E3%82%A3%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%BC%2Caps%2C192&sr=8-4)
+2. [【2022年版】この問題だけで合格可能！AWS 認定クラウドプラクティショナー 模擬試験問題集（7回分455問） \| Udemy](https://www.udemy.com/course/aws-4260/)
